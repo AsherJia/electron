@@ -1,0 +1,17 @@
+{
+  "name": "AsherElectron",
+  "version": "1.0.0",
+  "description": "First electron.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Asher",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^0.4.1",
+    "electron-packager": "^7.0.4",
+    "electron-prebuilt": "^1.2.0",
+    "nconf": "^0.8.4"
+  }
+}
